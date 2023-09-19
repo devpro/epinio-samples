@@ -11,4 +11,6 @@ epinio push --name dotnetapisample --path src/WebApi --env ASPNETCORE_ENVIRONMEN
 
 ## Contribute
 
-All the projects are created from .NET templates. For Paketo Buildpacks to be able to create artifacts that run, the file `Procfile` must be added.
+All the projects are created from .NET templates.
+
+For Paketo Buildpacks to be able to create artifacts that run, the file `Procfile` must be added (see [Override the Start Process Set by the Buildpack](https://paketo.io/docs/howto/dotnet-core/#override-the-start-process-set-by-the-buildpack)).
