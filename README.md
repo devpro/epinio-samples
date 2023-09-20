@@ -8,4 +8,6 @@ Get to know Epinio: [rancher-ecosystem/epinio](https://devpro.github.io/rancher-
 
 ## Content
 
-* [.NET](samples/dotnet/README.md)
+Languages | Folder                               | Applications
+----------|--------------------------------------|--------------------------
+.NET / C# | [`dotnet`](samples/dotnet/README.md) | REST API, Web App (Razor)

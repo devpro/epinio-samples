@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <AssemblyName>EpinioDotnetSamples.RazorWebApp</AssemblyName>
+    <RootNamespace>EpinioDotnetSamples.RazorWebApp</RootNamespace>
+    <ProjectGuid>{F9BD3F32-511C-4B47-AC5B-37788B32F59E}</ProjectGuid>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
