@@ -8,4 +8,8 @@ Get to know Epinio: [rancher-ecosystem/epinio](https://devpro.github.io/rancher-
 
 ## Content
 
-* [.NET](samples/dotnet/README.md)
+Languages & Frameworks | Folder                                 | Applications
+-----------------------|----------------------------------------|----------------------------------
+Angular / TypeScript   | [`angular`](samples/angular/README.md) | Web App (Single Page Application)
+.NET / C#              | [`dotnet`](samples/dotnet/README.md)   | REST API, Web App (Razor)
+React                  | [`react`](samples/react/README.md)     | Web App (Single Page Application)

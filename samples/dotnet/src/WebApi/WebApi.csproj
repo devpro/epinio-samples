@@ -7,8 +7,6 @@
     <ProjectGuid>{D06DE82B-FAFD-4D63-B158-2AD511C1CE32}</ProjectGuid>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>5428f08d-e438-4a74-abf9-ee602e301dbd</UserSecretsId>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
 
   <ItemGroup>

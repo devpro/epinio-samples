@@ -6,7 +6,10 @@ Run the following commands to deploy the applications
 
 ```bash
 # Web API (REST)
-epinio push --name dotnetapisample --path src/WebApi --env ASPNETCORE_ENVIRONMENT=Development
+epinio push --name aspnetapisample --path src/WebApi --env ASPNETCORE_ENVIRONMENT=Development
+
+# Web App from Razor Page
+epinio push --name aspnetrazorsamp --path src/RazorWebApp --env ASPNETCORE_ENVIRONMENT=Development
 ```
 
 ## Contribute
